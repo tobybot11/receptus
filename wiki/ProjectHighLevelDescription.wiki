@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Receptus Description
 
 = Introduction =
 
@@ -10,4 +10,3 @@ Down with paper receipts!
 
 
 = Details =
-
